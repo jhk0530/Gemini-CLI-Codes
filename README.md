@@ -6,15 +6,15 @@
 
 ## 추가 자료
 
-1. 제미나이 CLI 리터러시
+1. 제미나이 CLI 리터러시 (유튜브 라이브)
 
-[<img width="800" alt="Thumbnail 001" src="https://github.com/user-attachments/assets/de9c050a-664e-4155-877d-538e101148d6" />]((https://www.youtube.com/live/4IlU4knLT8Y?si=z4IUBfLiVU9FrbXa))
+[<img width="800" alt="Thumbnail 001" src="https://github.com/user-attachments/assets/de9c050a-664e-4155-877d-538e101148d6" />](https://www.youtube.com/live/4IlU4knLT8Y?si=z4IUBfLiVU9FrbXa)
 
-2. 제미나이 CLI 라이브 강의 만들기 
+2. 제미나이 CLI 라이브 강의 만들기 (유튜브 라이브)
 
 [<img width="800" alt="Thumbnail 002" src="https://github.com/user-attachments/assets/b2d70583-5444-4532-bf64-dd4b313ced68" />](https://www.youtube.com/live/5SEf82W02x4?si=El-h6auOireZ3Dxf)
 
-3. 요즘 바이브 코딩! 제미나이 CLI 완벽 가이드 저자 김진환님과 함께하는 제미나이 완전 정복!
+3. 요즘 바이브 코딩! 제미나이 CLI 완벽 가이드 저자 김진환님과 함께하는 제미나이 완전 정복! (유튜브 라이브)
 
 [<img width="800" src="https://github.com/user-attachments/assets/8eb4d25b-8c25-466d-93c4-1def2279561b">](https://www.youtube.com/watch?v=2dc9DNiWeAM")
 
